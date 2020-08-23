@@ -1,0 +1,21 @@
+﻿  line.cpp
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(68): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(72): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(78): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(90): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(91): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(92): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joonkang\desktop\dx12 object loader\bztuts\bztuts\line.cpp(22): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  BzTuts.vcxproj -> C:\Users\joonkang\Desktop\DX12 Object Loader\BzTuts\x64\Debug\BzTuts.exe
