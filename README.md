@@ -6,7 +6,14 @@ This project is an object loader that can display models in a 3d space using the
 - **Animation** from **.md5anim** files using **gpu-skinning**
 
 <p align="center">
-  <img src="./demo.png" alt="Size Limit CLI" width="738">
+  <img src="./demo.png" alt="Size Limit CLI" width="600">
+</p>
+
+Component Based
+---------------
+
+<p align="center">
+  <img src="./uml.png" alt="Size Limit CLI" width="738">
 </p>
 
 Staff
@@ -18,8 +25,8 @@ Staff
 Work Period
 -----------
 
-Start Date: 2017-06-02
-End Date: 2017-09-07
+- Start Date: 2017-06-02
+- End Date: 2017-09-07
 
 
 Libraries
@@ -31,5 +38,5 @@ Libraries
 Privacy
 -------
 
-Portions of source code have been removed for privacy purposes.
+*Portions of source code have been removed for privacy purposes.*
 
