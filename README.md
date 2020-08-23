@@ -9,19 +9,23 @@ An object loader that can display models in a 3d space using the DX12 library.
 Features
 --------
 
-- Load object models from **.obj** and **.md5mesh** files.
+- Load 3d models from **.obj** and **.md5mesh** files.
 - Camera movement (**rotating**, **panning**, **translating**, **zooming**)
 - **Animation** from **.md5anim** files using **gpu-skinning**
-- Load **multiple** objects at once in the same world
-- 
+- Load **multiple** 3d models at once in the same world
+- Create **custom** 3d models
 
 
-Component Based
----------------
-
+How it Works
+------------
+1. Component based system is used to give the 3d models different attirbutes. These attributes store data of the 3d model such as animation frame data annd uv texture coordinate data.
 <p align="center">
   <img src="./uml.png" alt="Size Limit CLI" width="738">
 </p>
+
+2. Animations are processed using bone armatures and weighted vertices. Each frame, the bones in the bone armature are translated and rotated to a different position, and each bone applies a different weight to every vertex in the 3d model which detemrines how much the vertex should move according to that specific bone. 
+
+3. 
 
 Staff
 -----
