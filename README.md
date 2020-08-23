@@ -23,9 +23,10 @@ How it Works
   <img src="./uml.png" alt="Size Limit CLI" width="738">
 </p>
 
-2. Animations are processed using bone armatures and weighted vertices. Each frame, the bones in the bone armature are translated and rotated to a different position, and each bone applies a different weight to every vertex in the 3d model which detemrines how much the vertex should move according to that specific bone. 
+2. Positional data of 3d models during an animation are calculated using bone armatures and weighted vertices. Each frame, the bones in the bone armature are translated and rotated to a different position, and each bone applies a different weight to every vertex in the 3d model which determines how much the vertex should move according to that specific bone. 
 
-3. 
+3. Animations are handled on `VertexShader.hlsl` via the process of gpu-skinning.  
+  
 
 Staff
 -----
