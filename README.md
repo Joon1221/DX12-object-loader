@@ -26,7 +26,13 @@ How it Works
 2. Positional data of 3d models during an animation are calculated using bone armatures and weighted vertices. Each frame, the bones in the bone armature are translated and rotated to a different position, and each bone applies a different weight to every vertex in the 3d model which determines how much the vertex should move according to that specific bone. 
 
 3. Animations are handled on `VertexShader.hlsl` via the process of gpu-skinning.  
-  
+
+
+How to Use
+----------
+
+Build and run program using Visaul Studios.
+
 
 Staff
 -----
@@ -39,12 +45,6 @@ Work Period
 
 - Start Date: 2018-03-11
 - End Date: 2019-01-13
-
-
-How to Use
-----------
-
-Build and run program using Visaul Studios
 
 
 Privacy
