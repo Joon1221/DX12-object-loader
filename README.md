@@ -1,13 +1,19 @@
 # DX12 Object Loader
 
-This project is an object loader that can display models in a 3d space using the DX12 library. 
-- **.obj** and **.md5mesh** support.
-- Camera movement (**rotating**, **panning**, **translating**, **zooming**)
-- **Animation** from **.md5anim** files using **gpu-skinning**
+An object loader that can display models in a 3d space using the DX12 library. 
 
 <p align="center">
   <img src="./demo.png" alt="Size Limit CLI" width="600">
 </p>
+
+Features
+--------
+
+- Load object models from **.obj** and **.md5mesh** files.
+- Camera movement (**rotating**, **panning**, **translating**, **zooming**)
+- **Animation** from **.md5anim** files using **gpu-skinning**
+- Load **multiple** objects at once in the same world
+- 
 
 
 Component Based
