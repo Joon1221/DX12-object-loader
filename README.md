@@ -10,10 +10,10 @@ Features
 --------
 
 - Load 3d models from **.obj** and **.md5mesh** files.
-- Camera movement (**rotating**, **panning**, **translating**, **zooming**)
-- **Animation** from **.md5anim** files using **gpu-skinning**
-- Load **multiple** 3d models at once in the same world
-- Create **custom** 3d models
+- Camera movement (**rotating**, **panning**, **translating**, **zooming**).
+- **Animation** from **.md5anim** files using **gpu-skinning**.
+- Load **multiple** 3d models at once in the same world.
+- Create **custom** 3d models.
 
 
 How it Works
