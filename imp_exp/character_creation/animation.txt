@@ -1,0 +1,360 @@
+Torso
+Bone Coordinates Start:
+-0.000000
+-0.000000
+-0.274938
+0.000000
+-0.047132
+2.351122
+Bone Coordinates End:
+
+Chest
+Bone Coordinates Start:
+0.000000
+-0.047132
+2.351122
+0.000000
+-0.047132
+4.181420
+Bone Coordinates End:
+
+Neck
+Bone Coordinates Start:
+0.000000
+-0.047132
+4.181420
+0.000000
+-0.125686
+4.652742
+Bone Coordinates End:
+
+Head
+Bone Coordinates Start:
+0.000000
+-0.125686
+4.652742
+0.000000
+-0.170933
+6.835903
+Bone Coordinates End:
+
+Upper Arm.L
+Bone Coordinates Start:
+1.725037
+0.326855
+3.566564
+2.765089
+0.438942
+1.842732
+Bone Coordinates End:
+
+Bone.006
+Bone Coordinates Start:
+2.765089
+0.438942
+1.842732
+3.886835
+0.033605
+-0.070834
+Bone Coordinates End:
+
+Hand.L
+Bone Coordinates Start:
+3.886835
+0.033605
+-0.070834
+4.508979
+-0.371731
+-0.749537
+Bone Coordinates End:
+
+Thumb01.L
+Bone Coordinates Start:
+4.204138
+-0.542038
+-0.671883
+4.109431
+-0.640533
+-0.668199
+Bone Coordinates End:
+
+Thumb02.L
+Bone Coordinates Start:
+4.109431
+-0.640533
+-0.668199
+3.844252
+-0.811006
+-0.664410
+Bone Coordinates End:
+
+Fingers01.L
+Bone Coordinates Start:
+4.508979
+-0.371731
+-0.749537
+4.612670
+-0.541407
+-1.164300
+Bone Coordinates End:
+
+Bone.009
+Bone Coordinates Start:
+4.612670
+-0.541407
+-1.164300
+4.565538
+-0.635671
+-1.494225
+Bone Coordinates End:
+
+Upper Arm.R.001
+Bone Coordinates Start:
+-1.725037
+0.326855
+3.566565
+-2.765089
+0.438942
+1.842732
+Bone Coordinates End:
+
+Lower Arm.R 001
+Bone Coordinates Start:
+-2.765089
+0.438942
+1.842732
+-3.886835
+0.033605
+-0.070834
+Bone Coordinates End:
+
+Hand.R.001
+Bone Coordinates Start:
+-3.886835
+0.033605
+-0.070834
+-4.508979
+-0.371731
+-0.749537
+Bone Coordinates End:
+
+Fingers01.R.001
+Bone Coordinates Start:
+-4.508979
+-0.371731
+-0.749537
+-4.612670
+-0.541407
+-1.164300
+Bone Coordinates End:
+
+Bone.010
+Bone Coordinates Start:
+-4.612670
+-0.541407
+-1.164300
+-4.565538
+-0.635671
+-1.494226
+Bone Coordinates End:
+
+Thumbs01.R
+Bone Coordinates Start:
+-4.204138
+-0.542038
+-0.671883
+-4.109431
+-0.640533
+-0.668199
+Bone Coordinates End:
+
+Thumb02.R.001
+Bone Coordinates Start:
+-4.109431
+-0.640533
+-0.668199
+-3.844252
+-0.811006
+-0.664411
+Bone Coordinates End:
+
+Leg pole target.L
+Bone Coordinates Start:
+0.906165
+-2.420005
+-2.743249
+0.906165
+-3.429201
+-2.775980
+Bone Coordinates End:
+
+Leg Control.L
+Bone Coordinates Start:
+0.875187
+0.663789
+-6.243812
+0.875187
+-1.480585
+-6.243812
+Bone Coordinates End:
+
+Foot Roll.L
+Bone Coordinates Start:
+0.906165
+-0.494864
+-6.004796
+0.864689
+0.127281
+-5.458062
+Bone Coordinates End:
+
+Leg iK.L
+Bone Coordinates Start:
+0.864689
+0.127281
+-5.458062
+0.864689
+1.131931
+-5.476246
+Bone Coordinates End:
+
+Upper Leg
+Bone Coordinates Start:
+0.906165
+0.080148
+-0.783348
+0.906165
+0.014163
+-2.743249
+Bone Coordinates End:
+
+Lower Leg.L
+Bone Coordinates Start:
+0.906165
+0.014163
+-2.743249
+0.906165
+0.127281
+-5.458063
+Bone Coordinates End:
+
+Toes Control.L
+Bone Coordinates Start:
+0.864689
+-0.494864
+-6.004796
+0.864689
+-1.305538
+-6.061355
+Bone Coordinates End:
+
+Foot.L
+Bone Coordinates Start:
+0.906165
+0.127281
+-5.458063
+0.864689
+-0.494864
+-6.004796
+Bone Coordinates End:
+
+Toes.L
+Bone Coordinates Start:
+0.864689
+-0.494864
+-6.004796
+0.864689
+-1.305538
+-6.061355
+Bone Coordinates End:
+
+Leg pole target.R
+Bone Coordinates Start:
+-0.906165
+-2.420005
+-2.743249
+-0.906165
+-3.429201
+-2.775980
+Bone Coordinates End:
+
+Leg Control.R
+Bone Coordinates Start:
+-0.875187
+0.663789
+-6.243812
+-0.875187
+-1.480585
+-6.243812
+Bone Coordinates End:
+
+Foot Roll.R
+Bone Coordinates Start:
+-0.906165
+-0.494864
+-6.004796
+-0.864689
+0.127281
+-5.458062
+Bone Coordinates End:
+
+Leg iK.R.001
+Bone Coordinates Start:
+-0.864689
+0.127281
+-5.458062
+-0.864689
+1.131931
+-5.476246
+Bone Coordinates End:
+
+Upper Leg.001
+Bone Coordinates Start:
+-0.906165
+0.080148
+-0.783348
+-0.906165
+0.014163
+-2.743249
+Bone Coordinates End:
+
+Lower Leg.R.001
+Bone Coordinates Start:
+-0.906165
+0.014163
+-2.743249
+-0.906165
+0.127281
+-5.458063
+Bone Coordinates End:
+
+Toes Control.R
+Bone Coordinates Start:
+-0.864689
+-0.494864
+-6.004796
+-0.864689
+-1.305538
+-6.061355
+Bone Coordinates End:
+
+Foot.R
+Bone Coordinates Start:
+-0.906165
+0.127281
+-5.458063
+-0.864689
+-0.494864
+-6.004796
+Bone Coordinates End:
+
+Toes.R.001
+Bone Coordinates Start:
+-0.864689
+-0.494864
+-6.004796
+-0.864689
+-1.305538
+-6.061355
+Bone Coordinates End:
+
