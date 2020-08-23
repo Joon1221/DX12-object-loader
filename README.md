@@ -18,7 +18,7 @@ Features
 
 How it Works
 ------------
-1. Component based system is used to give the 3d models different attirbutes. These attributes store data of the 3d model such as animation frame data annd uv texture coordinate data.
+1. Component based system is used to give the 3d models different attirbutes. These attributes store data of the 3d model such as animation frame data and uv texture coordinate data.
 <p align="center">
   <img src="./uml.png" alt="Size Limit CLI" width="738">
 </p>
