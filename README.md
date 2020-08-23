@@ -9,6 +9,7 @@ This project is an object loader that can display models in a 3d space using the
   <img src="./demo.png" alt="Size Limit CLI" width="600">
 </p>
 
+
 Component Based
 ---------------
 
@@ -25,14 +26,14 @@ Staff
 Work Period
 -----------
 
-- Start Date: 2017-06-02
-- End Date: 2017-09-07
+- Start Date: 2018-03-11
+- End Date: 2019-01-13
 
 
-Libraries
----------
+How to Use
+----------
 
-- DX12
+Build and run program using Visaul Studios
 
 
 Privacy
