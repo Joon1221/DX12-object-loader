@@ -25,7 +25,34 @@ How it Works
 
 2. Positional data of 3d models during an animation are calculated using bone armatures and weighted vertices. Each frame, the bones in the bone armature are translated and rotated to a different position, and each bone applies a different weight to every vertex in the 3d model which determines how much the vertex should move according to that specific bone. 
 
-3. Animations are handled on `VertexShader.hlsl` via the process of gpu-skinning.  
+3. Animations are handled on `VertexShader.hlsl` via the process of gpu-skinning. 
+
+``` HLSL
+  float4 tempPos;
+  tempPos.x = 0.0f;
+  tempPos.y = 0.0f;
+  tempPos.z = 0.0f;
+  tempPos.w = 1.0f;
+
+  // apply weight and rotation
+  for (int i = 0; i < 4; i++) {
+    float3 weightPos = float3(input.weightsPosX[i], input.weightsPosY[i], input.weightsPosZ[i]);
+
+    float3 rotPos = rotateVectorByQuat(boneRot[input.boneIndices[i]], weightPos);
+
+    tempPos.x += (bonePos[input.boneIndices[i]].x + rotPos.x) * input.weights[i];
+    tempPos.y += (bonePos[input.boneIndices[i]].y + rotPos.y) * input.weights[i];
+    tempPos.z += (bonePos[input.boneIndices[i]].z + rotPos.z) * input.weights[i];
+  }
+
+  float temp = tempPos.y;
+  tempPos.y = tempPos.z;
+  tempPos.z = temp;
+
+  // set position 
+  output.pos = mul(tempPos, wvpMat);
+    
+```
 
 
 How to Use
