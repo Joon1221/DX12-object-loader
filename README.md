@@ -55,23 +55,35 @@ How it Works
 ```
 
 
-How to Use
-----------
+Usage
+-----
 
-Build and run program using Visaul Studios.
+### Importing 3d Models
+
+
+### Camera Movement
+
+Rotate: `RMB + Move`\
+Zoom: `Scroll Wheel`\
+Pan: `Ctrl + RMB + Move`
 
 
 Staff
 -----
 
-- Programmer: Joon Kang
-- Mentor: Samil Chai
+Programmer: Joon Kang
+
+
+Mentor: Samil Chai
+
 
 Work Period
 -----------
 
-- Start Date: 2018-03-11
-- End Date: 2019-01-13
+Start Date: 2018-03-11
+
+
+End Date: 2019-01-13
 
 
 Privacy
