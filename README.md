@@ -60,11 +60,21 @@ Usage
 
 ### Importing 3d Models
 
+Import 3d models by typing the path to the object file then pressing import.
+
+<p align="center">
+  <img src="./assets/demo2.gif" alt="Size Limit CLI" width="600">
+</p>
+
 
 ### Camera Movement
 
-Rotate: `RMB + Move`\
-Zoom: `Scroll Wheel`\
+Rotate: `RMB + Move`
+
+
+Zoom: `Scroll Wheel`
+
+
 Pan: `Ctrl + RMB + Move`
 
 
