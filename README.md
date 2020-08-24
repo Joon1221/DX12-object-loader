@@ -3,7 +3,7 @@
 An object loader that can display models in a 3d space using the DX12 library. 
 
 <p align="center">
-  <img src="./assets/demo2.gif" alt="Size Limit CLI" width="600">
+  <img src="./assets/demogif.gif" alt="Size Limit CLI" width="600">
 </p>
 
 Features
@@ -63,7 +63,7 @@ Usage
 Import 3d models by typing the path to the object file then pressing import.
 
 <p align="center">
-  <img src="./assets/demo2.gif" alt="Size Limit CLI" width="600">
+  <img src="./assets/import.gif" alt="Size Limit CLI" width="600">
 </p>
 
 
