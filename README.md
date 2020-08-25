@@ -1,6 +1,6 @@
 # DX12 Object Loader
 
-An object loader that can display models in a 3d space using the DX12 library. 
+An object loader that can display 3d models in a 3d space using the DX12 library. 
 
 <p align="center">
   <img src="./assets/demogif.gif" alt="Size Limit CLI" width="700">
